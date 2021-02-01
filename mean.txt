@@ -1,0 +1,146 @@
+Jomains
+N: Neuroticism
+E: Extraversion
+— 0: Openness
+A: Agreeableness
+C: Conscientiousness
+Neuroticism facets
+NI: Anxiety
+N2: Angry Hostility
+N3: Depression
+N4: Self-Consciousness
+N5: Impulsiveness
+N6: Vulnerability
+Extraversion facets
+El: Warmth
+E2: Gregariousness
+E3: Assertiveness
+F4: Activity
+ES: Excitement-Seeking
+
+E6:
+
+Positive Emotions
+
+Openness facets
+
+Ol:
+Q2:
+O3:
+04;
+OS:
+06:
+
+Fantasy
+Aesthetics
+Feelings
+Actions
+Ideas
+Values
+
+Agreeableness facets
+
+Al:
+A2:
+A3:
+A4:
+AS:
+A6:
+
+Trust
+Straightforwardness
+Altruism
+Compliance
+Modesty
+Tender-Mindedness
+
+Conscientiousness facets
+
+Ci:
+C2.
+G3:
+C4:
+C5:
+
+Competence
+
+Order
+
+Dutifulness
+Achievement Striving
+Self-Discipline
+
+C6: Deliberation
+
+ADD
+108.5
+110.1
+120.1
+123.6
+
+13.3
+122
+11.6
+13.7
+153
+
+9.2
+
+223
+
+19.5
+
+19.9
+18.5
+17.5
+16.1
+17.4
+
+21.0
+
+21.8
+
+LOE]
+
+19.6
+21,7
+17.3
+
+ 
+
+21.7
+18.4
+17.2
+14.4
+17.8
+
+2239
+
+20.2
+
+16.6
+17.6
+20.3
+16.4
+
+20.7
+213
+
+23.6
+18.9
+18.9
+20.5
+
+22:2
+19.0
+23.2
+19.5
+21.8
+17.5
+
+21.2
+18.4
+17.3
+15.8
+17.6
+

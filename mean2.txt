@@ -1,0 +1,57 @@
+  Jomains
+     N: Neuroticism                  75.2     19.9     83.1     2) 7    79.1   21.2
+     E: Extraversion                108.5     18.5    110.3     18.4   109.4   18.4
+—    0: Openness                    110.1     17.5    111.0     172    110.6   3
+     A: Agreeableness               120.1     16.1    128.5     14.4   124.3   15.8
+     C: Conscientiousness           123.6     17.4    122.7     17.8   12321   17.6
+  Neuroticism facets
+     NI: Anxiety                     13.3      4.9     15.4      5.4    14.3    53
+     N2: Angry Hostility             122)      4.5     12.6      4.8    12.4    4.6
+    N3: Depression                   11.6      5.2     12.9      5.6    12.3    5.4
+    N4: Self-Consciousness           13.7      43      15.0      4.5    14.3   4.4
+    N5: Impulsiveness                15.3      4.2     16.3      4.6    15.8   44
+    N6: Vulnerability                  9.2     3.7     10.9      4.0    10.0    3.9
+  Extraversion facets
+     El: Warmth                      22.3      4.0     23.6     3.8    22.9    4.0
+                                     16.0      4.9     17.0      4.7   16.5    48
+     E2: Gregariousness
+                                     16.3      4.7     15.4      4.8   15.8    4.7
+     E3: Assertiveness
+                                     17.3      4.3     17.8      4.4   17.6    4.4
+     EFA: Activity
+                                      172      4.7     15.7      5.1    16.4   4.9
+    ES:     Excitement-Seeking
+    E6: Positive Emotions             19.5     4.3     20.8     4.5    20.2    4.5
+
+    a                                          ee
+  Openness facets
+
+    O2:          i                    16.7     ).         -      ».       :      .
+                                      19.7     3.8     20.8      4.1   20.3    4.0
+     03:     eee
+     04: Actions                      16.1     3.8     16.8      3.6   16.4    3.7
+                                      19.8     5.0     18.2      5.0   19.0    5.0
+     O5: Ideas
+                                      20.8     4.5     20.5      3.8   20:7    4.1
+     O06: Values
+  Agreea                                                                       4.2
+                                      20.9     43      217       4.0   21.3
+    ae       ee as
+     A2: Straightforwardness          20.3    4.3      22.2     4.3    21.2    44
+                                      22.8     3.6     24.3      3.2   23.6    3.5
+     A3:    Altruism
+
+                                               4.4     19.7      3.8   18.9    42
+     AS:    Modesty                   18.1
+                                      19.9    3.8      21.0     3.1    20.5    3.5
+     A6: Tender-Mindedness
+    ang    ea
+     a                                22.5      3,5    21.8     3.5    22.2    35
+     C2:     Order                     18.9     4.1    19.1 °    4.2   19.0    42
+      C3:    Dutifulness             23.2      3.9     23,2      3.8   23.2    3.9
+             Achievement Striving      19.3     4.1    19.6      32    19.5    4.0
+      C4:
+      C5: Self-Discipline             21.8      4.2    21.7     4.4    21.8    43
+                                                4.0    173      43     17.5    4]
+      C6:    Deliberation              17.8
+
