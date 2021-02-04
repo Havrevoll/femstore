@@ -1,0 +1,35 @@
+A1: Trust : Tillit
+A2: Straightforwardness : Rettframhet
+A3: Altruism : Altruisme
+A4: Compliance : Føyelighet
+A5: Modesty : Beskjedenhet
+A6: Tender-Mindedness : Følsomhet
+A: Agreeableness : Medmenneskelighet
+C1: Competence : Kompetanse
+C2: Order : Orden
+C3: Dutifulness : Plikttroskap
+C4: Achievement Striving : Prestasjonsstreben
+C5: Self-Discipline : Selvdisiplin
+C6: Deliberation : Betenksomhet
+C: Conscientiousness : Planmessighet
+E1: Warmth : Varme
+E2: Gregariousness : Sosiabilitet
+E3: Assertiveness : Selvmarkering
+E4: Activity : Aktivitet
+E5: Excitement-Seeking : Spenningssøking
+E6: Positive Emotions : Positive følelser
+E: Extraversion : Ekstroversjon
+N1: Anxiety : Angst
+N2: Angry Hostility : Fiendtlighet
+N3: Depression : Depresjon
+N4: Self-Consciousness : Selvbevissthet
+N5: Impulsiveness : Impulsivitet
+N6: Vulnerability : Sårbarhet
+N: Neuroticism : Nevrotisisme
+O1: Fantasy : Fantasi
+O2: Aestetics : Estetikk
+O3: Feelings : Følelser
+O4: Actions : Handlinger
+O5: Ideas : Idéer
+O6: Values : Verdier
+O: Openness : Åpenhet for erfaringer

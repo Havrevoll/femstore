@@ -1,0 +1,5 @@
+N: Neuroticism
+E: Extraversion
+O: Openness
+A: Agreeableness
+C: Conscientiousness

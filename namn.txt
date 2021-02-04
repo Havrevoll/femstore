@@ -1,0 +1,36 @@
+N: Neuroticism
+E: Extraversion
+O: Openness
+A: Agreeableness
+C: Conscientiousness
+N1: Anxiety
+N2: Angry Hostility
+N3: Depression
+N4: Self-Consciousness
+N5: Impulsiveness
+N6: Vulnerability
+El: Warmth
+E2: Gregariousness
+E3: Assertiveness
+E4: Activity
+E5: Excitement-Seeking
+E6: Positive Emotions
+O1: Fantasy
+O2: Aestetics
+O3: Feelings
+O4: Actions
+O5: Ideas
+O6: Values
+A1: Trust
+A2: Straightforwardness
+A3: Altruism
+A4: Compliance
+A5: Modesty
+A6: Tender-Mindedness
+C1: Competence
+C2: Order
+C3: Dutifulness
+C4: Achievement Striving
+C5: Self-Discipline
+C6: Deliberation
+
